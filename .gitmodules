@@ -1,0 +1,2 @@
+[submodule "resources/views/frontend"]
+	url = git@github.com:rizkisups12/frontend.git
